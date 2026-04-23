@@ -1,1 +1,1 @@
-# sync-github
+# syncgithub
